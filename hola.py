@@ -1,6 +1,6 @@
 """
-Este es,i primer comentario 
-en el Lenguiaje Python
+Este es mi  primer comentario 
+en el Lenguaje Python
 """
 
 
